@@ -77,7 +77,7 @@ The color overlay was introduced as a div container with the color as its backgr
 
 ### Useful resources
 
-- [Example resource 1](https://tailwindcss.com/docs/installation/tailwind-cli) - Documentation for TailwindCSS CLI installation
+- [TailwindCSS CLI installation](https://tailwindcss.com/docs/installation/tailwind-cli) - Documentation for TailwindCSS CLI installation
 
 ## Author
 
