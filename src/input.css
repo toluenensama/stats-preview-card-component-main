@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: Inter-regular;
+    src: url(/assets/fonts/Inter_28pt-Regular.ttf);
+}
+
+@font-face {
+    font-family: Inter-bold;
+    src: url(/assets/fonts/Inter_24pt-Bold.ttf);
+}
+
+@font-face {
+    font-family: LexendDeca-regular;
+    src: url(/assets/fonts/LexendDeca-Regular.ttf);
+}
+
+@theme {
+
+    --font-lexend: LexendDeca-regular;
+    --font-inter-regular: Inter-regular;
+    --font-inter-bold: Inter-bold;
+
+    --color-very-dark-blue: hsl(233, 47%, 7%);
+    --color-dark-saturated-blue: hsl(244, 38%, 16%);
+    --color-soft-violet:  hsl(277, 64%, 61%);
+    --color-slightly-trans-white-para: hsla(0, 0%, 100%, 0.75);
+    --color-slightly-trans-white-heading: hsla(0, 0%, 100%, 0.6);
+
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
